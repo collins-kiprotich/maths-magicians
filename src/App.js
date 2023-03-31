@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>
-        Maths Magicians app coming soon ...
+        A maths magician React app setup
       </h1>
     </div>
   );
