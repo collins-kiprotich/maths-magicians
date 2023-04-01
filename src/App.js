@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div>
       <h1>
-        Maths Magicians app coming soon ...
+        A maths magician React app setup
       </h1>
     </div>
   );
