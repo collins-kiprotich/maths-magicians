@@ -1,12 +1,11 @@
-import './App.css';
+import './index.css';
+import Calculator from './components/Calculator';
 
 function App() {
   return (
-    <div>
-      <h1>
-        A maths magician React app setup
-      </h1>
-    </div>
+    <>
+      <Calculator />
+    </>
   );
 }
 
