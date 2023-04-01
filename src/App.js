@@ -1,13 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import './index.css';
+import Calculator from './components/Calculator';
 
 function App() {
   return (
-    <div>
-      <h1>
-        Maths Magicians app coming soon ...
-      </h1>
-    </div>
+    <>
+      <Calculator />
+    </>
   );
 }
 
