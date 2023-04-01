@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+ 
   <br/>
 
   <h3><b>Math Magicians</b></h3>
@@ -70,7 +70,7 @@
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+-Livw demo is coming up soon ...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
