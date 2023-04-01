@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 
@@ -6,7 +5,7 @@ function Calculator() {
   const [state, setState] = useState({
     total: null,
     next: null,
-    operation: null
+    operation: null,
   });
 
   const clickHandle = (e) => {
@@ -58,6 +57,3 @@ function Calculator() {
 }
 
 export default Calculator;
-
-
-
